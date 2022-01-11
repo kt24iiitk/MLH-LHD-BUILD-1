@@ -1,0 +1,23 @@
+.center{
+    width:100%;
+    text-align: center;
+    background-color: rgb(245, 136, 255);
+    font-size: 1.5em;
+}
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+th, td {
+   background-color: #ffa7ff;
+}
+h2{
+    margin-left: 40%;
+}
+.gun{
+    margin-left: 20%;
+}
+body{
+    background-color: rgb(246, 215, 252);
+}
+

@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "habit": "Jogging",
+      "date": "14/01/2022",
+      "day": "Monday",
+      "streak": "4"
+    },
+    {
+      "id": 2,
+      "habit": "Squats",
+      "date": "14/01/2022",
+      "day": "Monday",
+      "streak": "2"
+    },
+    {
+      "id": 3,
+      "habit": "Sprint",
+      "date": "14/01/2022",
+      "day": "Monday",
+      "streak": "3"
+    },
+    {
+      "id": 4,
+      "habit": "Pullups",
+      "date": "14/01/2022",
+      "day": "Monday",
+      "streak": "3"
+    },
+    {
+      "id": 5,
+      "habit": "Pushups",
+      "date": "14/01/2022",
+      "day": "Monday",
+      "streak": "5"
+    }
+  ]
